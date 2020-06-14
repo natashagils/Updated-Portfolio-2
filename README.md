@@ -74,7 +74,7 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 
 
 **Installation**
-To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Updated-Portfolio-1. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
+To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Updated-Portfolio-2. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
 
 **License**
 This website belongs to Natasha Gilani. All Rights Reserved. 
