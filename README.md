@@ -21,7 +21,8 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 **Portfolio page screenshot** 
 
 
-<img width="618" alt="Screen Shot 2020-06-14 at 1 00 26 PM" src="https://user-images.githubusercontent.com/56641651/84599308-077c9800-ae3f-11ea-903a-8c73fc9619f0.png">
+<img width="590" alt="Screen Shot 2020-06-14 at 1 55 57 PM" src="https://user-images.githubusercontent.com/56641651/84600378-c7211800-ae46-11ea-9390-2d6a576b96fb.png">
+
 
 **This portfolio** 
 * Is updated and showcases some recent projects, including links to their deployed versions and GitHub repos. 
